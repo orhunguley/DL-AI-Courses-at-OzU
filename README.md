@@ -1,5 +1,5 @@
 # DL & AI Courses at OzU
-## CS451 - Intro ti AI	:
+## CS451 - Introduction to Artificial Intelligence	:
   ### Assignment 1 :
   Heuristic search algorithms for designing an intelligent Human Resource Agent,
   which will decide to accept or reject the candidates.<br />
@@ -9,7 +9,7 @@
  ### Assignment 2: 
  Implementation of a Genetic Algorithm to optimize a given process.
 
-## CS466 - Intro To DL: 
+## CS466 - Introduction To Deep Learning: 
    ### Assignment 1 : 
    TensorFlow implementation of 3 different neural network on Fashion MNIST dataset. <br />
    2 Multilayer NN, 1 CNN <br />
